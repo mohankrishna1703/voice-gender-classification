@@ -19,7 +19,6 @@ The project includes:
 | `train_model.py`  | Trains a Random Forest classifier |
 | `save_model.py`   | Saves the trained model as `rf_model.pkl` |
 | `app.py`          | Streamlit app to predict gender using uploaded CSV |
-| `manual_app.py`   | Streamlit app to manually input feature values |
 
 ---
 
